@@ -1,5 +1,9 @@
 Celebal Spotify  Clone
+
+
 Project Overview
+
+
 Celebal Spotify 2.0 Clone is a feature-rich, modern web application designed to replicate and enhance Spotify's core functionalities, delivering a seamless music streaming experience. Built with React , Tailwind CSS, Redux Toolkit, and the Shazam Core API via RapidAPI, this project enables users to discover music, create playlists, search songs, control playback, browse albums, and explore genres. The app emphasizes smooth user experience, responsive design, and robust API integration, making it a standout project for music enthusiasts.
 Developed as part of an internship assignment at Celebal Technologies, this project showcases my expertise in modern web development, API integration, and user-centric design. Inspired by resources like this YouTube tutorial, I enhanced the core Spotify clone with advanced features like personalized playlists, genre-based exploration, and geolocation-based recommendations, demonstrating my ability to build scalable, production-ready applications.
 Features
